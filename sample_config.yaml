@@ -1,0 +1,11 @@
+---
+
+rhev_hosts: 
+    - "https://rhevm.lab1.jmainguy.com"
+rhev_user: "canUsmellWhat"
+rhev_password: "theRockIsCookin"
+rhev_domain: "Jmainguy Directory"
+#zenoss_url:
+#zenos_user:
+#zenos_password:
+#zenos_rhev_hostname:
